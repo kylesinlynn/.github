@@ -2,6 +2,8 @@
     <img src="https://github.com/cybermm/art/blob/master/cover/cybermm/transparent-1k.png" width="400" />
 </p>
 
-[Myanmar Cyber Youth](https://laravel.io/) is an organization that brings together with young IT professionals.
-
-Maintained by [Thet Paing Hein](https://github.com/pxakarit) and [Aung Myat Moe](https://github.com/amm834).
+<p align="center">
+  <a href="https://github.com/cybermm">Myanmar Cyber Youth</a> is an organization that brings together with young IT professionals.
+  <br> 
+  Maintained by <a href="https://github.com/pxakarit">Thet Paing Hein</a> and <a href="https://github.com/amm834">Aung Myat Moe</a>.
+</p>
