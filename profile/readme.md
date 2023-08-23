@@ -19,3 +19,6 @@ We invite you to be a part of our mission! You can contribute by:
 You can reach out to us via:
 - [Webiste](https://myanmar-cyber-youths.vercel.app)
 - [Facebook](https://www.facebook.com/myanmarcyberyouths)
+
+## Our Open Source Projects
+- [Myanmar Calendar](https://github.com/myanmarcyberyouths/myanmar-calendar)
