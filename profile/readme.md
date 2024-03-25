@@ -21,4 +21,5 @@ You can reach out to us via:
 - [Facebook](https://www.facebook.com/myanmarcyberyouths)
 
 ## Our Open Source Projects
-- [Myanmar Calendar](https://github.com/myanmarcyberyouths/myanmar-calendar)
+- [Breeze - The Event Planning Web Apps](https://github.com/myanmarcyberyouths/breeze-web)
+- [mCal - Myanmar Calendar](https://github.com/myanmarcyberyouths/mcal)
